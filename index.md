@@ -19,7 +19,9 @@ I completed an M.S. in Data Science at [Columbia University](https://www.columbi
 I guess they're right when they say curiosity killed the cat--naiveté too actually--but satisfaction somehow always brought it back to life. So there goes my top rule for a fulfilling life: "Follow your curiosity" :).
 
 ## stay in touch 💌
-When I'm not creating, I like to advocate for women and girls in [STEM](https://www.ed.gov/stem), and live temporarily in different parts of the world to teach and learn new cultures. Among the countries I've lived in are Brazil, South Africa, and France. I speak English, Indonesian, Javanese, and a little bit of French -- so feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moorissa/)!
+When I'm not creating, I love learning about different cultures and philosophies around the world. Whether it is through communities, volunteering, or living in another country temporarily. Among 23 countries traversed, I had thoroughly enjoyed adventuring life like a local in France, Brazil, and South Africa for a couple months. I hope I don't just get to see the world, but to also connect with those in different corners of the globe.
+
+So, connect with me! I speak English, Indonesian, Javanese, and very little French, but I can certainly use Google Translate. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moorissa/)!
 
 --
 
