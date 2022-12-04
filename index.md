@@ -6,7 +6,7 @@ layout: default
 
 # hey there, i'm moorissa 🙋🏻‍♀️ 
 ## about ✨
-A roboticist, engineer, and artist based in San Francisco, California. I enjoy innovating and creating, building self-driving software, and solving highly complex technical problems. Since I was a kid, I've also been drawn to the world of creative arts, like painting and writing. You can find my  [artwork here](https://instagram.com/moorissatjokro) and my [blog here](https://moorissa.medium.com/).
+A robotics engineer and a fine artist based in San Francisco, California. I enjoy innovating and creating, building self-driving software, and solving highly complex technical problems. Since I was a kid, I've also been drawn to the world of creative arts, like painting and writing. You can find my  [artwork here](https://instagram.com/moorissatjokro) and my [blog here](https://moorissa.medium.com/).
 
 ## currently 🦾
 I work as a Senior Software Systems Engineer at [Cruise](https://www.getcruise.com/), a robotaxi startup currently developing an L4 autonomy systems. I want to help push the boundaries of AI and robotics towards the world's first L5 technology, as I believe it's a fundamental change to a much safer and more sustainable earth, for all.
