@@ -21,7 +21,7 @@ I guess they're right when they say curiosity killed the cat--naiveté too actua
 ## stay in touch 💌
 When I'm not creating, I love learning about different cultures and philosophies around the world. Whether it is through communities, volunteering, or living in another country temporarily. Among 23 countries traversed, I had thoroughly enjoyed adventuring life like a local in France, Brazil, and South Africa for a couple months. I hope I don't just get to see the world, but to also connect with those in different corners of the globe.
 
-So, connect with me! I speak English, Indonesian, Javanese, and very little French, but highly proficient in Google Translate. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moorissa/)!
+So, connect with me! I speak English, Indonesian, Javanese, and very little French, but highly proficient in Google Translate. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moorissa/).
 
 --
 
