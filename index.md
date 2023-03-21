@@ -14,7 +14,7 @@ I work as a Senior Software Systems Engineer at [Cruise](https://www.getcruise.c
 I was previously at [Tesla](https://www.tesla.com/) for nearly 4 years, where I helped the Autopilot team launch its first [Full Self-Driving (FSD)](https://www.tesla.com/support/autopilot) feature. Prior to that, I worked as a machine learning researcher at [NASA Goddard Institute](https://www.giss.nasa.gov/) working on [climate change models](https://www.giss.nasa.gov/tools/modelE/) and the [United Nations](https://www.un.org/en/) on supply chain optimizations for [reducing malnutritions](https://www.wfp.org/specialized-nutritious-food) in Subsaharan Africa.
 
 ## engineering 🚀
-I completed an M.S. in Data Science with a focus on Machine Learning at [Columbia University](https://www.columbia.edu/), and a B.S. in Industrial and Systems Engineering and Statistics from [Georgia Tech](https://www.gatech.edu/) at 19 _summa cum laude_. During sophomore year, I fell in love with statistical learning theory and subsequently took a few PhD engineering courses in it 'til I left undergrad.
+I completed an M.S. in Data Science with a focus on Machine Learning at [Columbia University](https://www.columbia.edu/), and a B.S. in Industrial and Systems Engineering and Statistics from [Georgia Tech](https://www.gatech.edu/) _summa cum laude_ and at 19. During sophomore year, I fell in love with statistical learning theory and subsequently took a few PhD engineering courses in it 'til I left undergrad.
 
 I guess they're right when they say curiosity killed the cat--naiveté too actually--but satisfaction somehow always brought it back to life. So there goes my top rule for a fulfilling life: _Follow your curiosity_ :).
 
