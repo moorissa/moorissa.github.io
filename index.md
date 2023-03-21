@@ -19,12 +19,12 @@ I completed an M.S. in Data Science with a focus on Machine Learning at [Columbi
 I guess they're right when they say curiosity killed the cat--naiveté too actually--but satisfaction somehow always brought it back to life. So there goes my top rule for a fulfilling life: _Follow your curiosity_ :).
 
 ## stay in touch 💌
-When I'm not creating, I love learning about cultures and philosophies around the world--whether through communities, volunteering, or living abroad temporarily. Among 23 countries traversed, I had thoroughly enjoyed adventuring life like a local in France, Brazil, and South Africa for a couple months. I hope I don't just get to see the world, but to also connect with those in different corners of the globe.
+When I'm not creating, I love learning about cultures and philosophies around the world--whether through local communities, volunteering, or living abroad temporarily. Among 23 countries I've been to, I thoroughly enjoyed the adventure of living in France, Brazil, and South Africa for a couple months. I hope I don't just get to see the world, but to also connect with others in different corners of the globe.
 
 So, please connect with me! I speak English, Indonesian, Javanese, and very little French, but highly proficient in Google Translate and ChatGPT lol. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moorissa/).
 
 --
 
-Take care and keep slaying!
+Take care and keep slaying x
 
 M.
