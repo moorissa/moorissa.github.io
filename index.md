@@ -21,7 +21,7 @@ My fascination towards robotics and embodied artificial intelligence didn't actu
 ## stay in touch 💌
 When I'm not creating, I love learning about cultures and philosophies around the world--whether through local communities, volunteering, or living abroad temporarily. I've gone to 29 countries so far, and was lucky enough to live in France, Brazil, and South Africa for a couple months. I truly enjoy learning about different cultures and connecting with so many of you from all corners of the globe.
 
-So, please connect with me! I speak English, Indonesian, Javanese, and too little French, but highly proficient in Google Translate and ChatGPT. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moorissa/).
+So, please connect with me! I speak English, Indonesian, Javanese, and not enough French, but highly proficient in Google Translate and ChatGPT. Feel free to write me a note via [email](mailto:moorissa.maura@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moorissa/).
 
 --
 
