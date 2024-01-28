@@ -19,7 +19,7 @@ I completed an M.S. in Data Science with a focus on Machine Learning at [Columbi
 My fascination towards robotics and embodied artificial intelligence didn't actually develop until Tesla, when I started working on firmware UI, closed-loop simulations, and algorithmic state machines with some of the strongest engineers I'd worked with. Maybe they're right when they say curiosity killed the cat--naiveté too actually--but satisfaction somehow always brought it back to life. So there goes my top rule for a fulfilling life: _Follow your curiosity_ :).
 
 ## speaking 🌎
-In the past years, I've shared experiences and knowledge on AI/robotics at various types of institutions, including universities, private and public institutions, and government ministries. If you are interested in collaborating for an event, let's start with this [speaking request form](https://forms.gle/5BFzxGovPGgj7VqN7).
+In the past few years, I've enjoyed sharing my experiences and knowledge on AI/robotics at various types of institutions, including universities, private and public institutions, and government ministries. If you are interested in collaborating for an event, let's start with this [speaking request form](https://forms.gle/5BFzxGovPGgj7VqN7).
 
 ## stay in touch 💌
 When I'm not creating, I love learning about cultures and philosophies around the world--whether through local communities, volunteering, or living abroad temporarily. I've gone to 29 countries so far, and was lucky enough to live in France, Brazil, and South Africa for a couple months. I truly enjoy learning about different cultures and connecting with so many of you from all corners of the globe.
