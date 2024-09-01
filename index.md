@@ -4,12 +4,18 @@ permalink: /
 layout: default
 ---
 
-# hey there, i'm moorissa 🙋🏻‍♀️ 
+<div style="display: flex; align-items: center;">
+  <img src="_images/2024-SF.png" alt="Description" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 20px;">
+  <div>
+    <h1><span style="font-size: 24px; font-weight: normal; margin: 0; line-height: 1;">Hello there<br><span style="font-size: 24px; font-weight: bold; margin: 0; line-height: 1;">I'm Moorissa Tjokro 🙋🏻‍♀️</span></h1>
+  </div>
+</div>
+
 ## about ✨
 A robotics engineer and artist based in San Francisco, California. I enjoy innovating and creating, building autonomous systems, and solving highly complex technical problems. Since I was a kid, I've also been drawn to the world of creative arts, like painting and writing. You can find my [artwork here](https://www.instagram.com/morii.gallery/) and my [blog here](https://moorissa.medium.com/).
 
 ## currently 🦾
-I work as a senior systems engineer at [Cruise](https://www.getcruise.com/), a robotaxi startup currently developing an L4 autonomy, where I specialize in perception and have developed a broad range of experience within the simulation and autonomy stacks. My interests lie in pushing the boundaries of AI and robotics towards achieving the world's first L5 technology, as I believe it represents a fundamental shift towards a much safer and more sustainable earth for all.
+I work as a software systems engineer at [Cruise](https://www.getcruise.com/), a robotaxi startup currently developing an L4 autonomy, where I specialize in perception and have developed a broad range of experience within the simulation and autonomy stacks. My interests lie in pushing the boundaries of AI and robotics towards achieving the world's first L5 technology, as I believe it represents a fundamental shift towards a much safer and more sustainable earth for all.
 
 I was previously at [Tesla](https://www.tesla.com/) for nearly 4 years, where I helped the Autopilot team launch its first [Full Self-Driving (FSD)](https://www.tesla.com/support/autopilot) feature. Prior to that, I worked as a machine learning researcher at [NASA Goddard Institute](https://www.giss.nasa.gov/) on [climate change models](https://www.giss.nasa.gov/tools/modelE/) and the [United Nations](https://www.un.org/en/) on supply chain optimizations for [reducing malnutritions](https://www.wfp.org/specialized-nutritious-food) in Subsaharan Africa.
 
@@ -28,6 +34,6 @@ So, please connect with me! I speak English, Indonesian, Javanese, and not enoug
 
 --
 
-Thanks for being part of my journey, keep slaying!
+Thanks for being part of my journey, much love
 
 M.
