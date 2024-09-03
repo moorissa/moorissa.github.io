@@ -4,13 +4,14 @@ permalink: /
 layout: default
 ---
 
-# Hello there! I'm Moorissa Tjokro 🙋🏻‍♀️
 <!-- <div style="display: flex; align-items: center;">
   <img src="assets/images/2024-SF.png" alt="Description" style="border-radius: 50%; width: 200px; height: 200px; margin-right: 20px;">
   <div>
     <h1><span style="font-size: 24px; font-weight: normal; margin: 0; line-height: 1;">Hello there<br><span style="font-size: 24px; font-weight: bold; margin: 0; line-height: 1;">I'm Moorissa Tjokro 🙋🏻‍♀️</span></h1>
   </div>
 </div> -->
+
+# Hey there! I'm Moorissa Tjokro 🙋🏻‍♀️
 
 ## about ✨
 A robotics engineer and artist based in San Francisco, California. I enjoy innovating and creating, building autonomous systems, and solving highly complex technical problems. Since I was a kid, I've also been drawn to the world of creative arts, like painting and writing. You can find my [artwork here](https://www.instagram.com/morii.gallery/) and my [blog here](https://moorissa.medium.com/).
