@@ -1,24 +1,36 @@
-/* Basic reset and styles */
+/* CSS Reset */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, code, em, img, ul, ol, li, table, tr, td, th {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
 
+/* Set basic styling */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
-header {
-    background: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
 }
 
-footer {
-    background: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.75em;
+}
+
+h3 {
+    font-size: 1.25em;
+    margin-bottom: 1em;
+}
+
+p {
+    margin-bottom: 1em;
 }
 
 .container {
